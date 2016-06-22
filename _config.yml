@@ -5,10 +5,10 @@ name: Rapha Barreto
 description: 
 
   # Description of your site. This will show up in google.
-  meta: Esse é um simples blog criado para aprender e reunir informações do mundo da programação.
+  meta: Blog feito para o seu conhecimento no mundo da programação!
 
   # Description of your site. This will show up on the front page.
-  subtitle: Esse é um simples blog criado para aprender e reunir informações do mundo da programação.
+  subtitle: Blog feito para o seu conhecimento no mundo da programação!
 
 author:
   name: Rapha Barreto
