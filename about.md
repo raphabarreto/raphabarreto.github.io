@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mim
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Olá, meu nome é Raphael Barreto e nasci em São Paulo. Cursei Análise e Desenvolvimento de Sistemas
+na [FIAP](https://www.fiap.com.br/) e sempre gostei de passar as informações que tenho
+para frente. Acredito que quanto mais aprendemos, mais ideias vão surgindo não importando se isso
+for bem pequeno.
+Lembre-se: conhecimento é tudo!
+
+![coding](/img/computer-good-idea.jpg)
+---
+
+

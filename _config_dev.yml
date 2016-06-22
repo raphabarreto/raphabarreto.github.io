@@ -5,10 +5,10 @@ name: Rapha Barreto - Blog
 description:
 
   # Description of your site. This will show up in google.
-  meta: Esse é um simples blog criado para aprender e reunir informações do mundo da programação.
+  meta: Esse é um simples blog criado para aprender e reunir informações do mundo da programação
 
   # Description of your site. This will show up on the front page.
-  subtitle: Esse é um simples blog criado para aprender e reunir informações do mundo da programação.
+  subtitle: Esse é um simples blog criado para aprender e reunir informações do mundo da programação
 
 author:
   name: Rapha Barreto
@@ -20,6 +20,8 @@ author:
   # want it.
   info:
 
+# The URL of the homepage of your site (without trailing slash). Leave this
+# empty when you run Jekyll locally.
 url: https://raphabarreto.com.br
 baseurl: ""
 
@@ -35,9 +37,9 @@ lang: en
 # If you want to show the subtitle anywhere else than the front page, use
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
-display-social-icons: true
+display-social-icons: false
 
-footer-text: Obrigado pela sua visita! Feito com Jekyll e ♪ ♫.
+footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -72,15 +74,13 @@ date_format: "%b %-d, %Y"
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-gems: [jekyll-paginate]
 paginate: 3
-paginate_path: "page:num"
 
 # Display links for the previous and next post on post pages.
-display-next-prev-post: true
+display-next-prev-post: false
 
 # Leave empty if you don't want comments on post pages.
-disqus-shortname: raphabarreto
+disqus-shortname:
 
 
 ################
@@ -89,17 +89,17 @@ disqus-shortname: raphabarreto
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter: https://twitter.com/RaphaelGuiba
+twitter: 
 youtube:
 instagram:
 tumblr:
-facebook: https://www.facebook.com/raphaelguilherme.barreto
-google-plus: https://plus.google.com/+RaphaelBarretoRGB
+facebook:
+google-plus:
 reddit:
 soundcloud:
 medium:
-linkedin: https://br.linkedin.com/in/raphael-guilherme-barreto-15631747
-github: https://github.com/raphabarreto
+linkedin:
+github:
 behance:
 codepen:
 dribbble:
@@ -115,18 +115,18 @@ paypal:
 
 # Useful for translating into other languages.
 
-var_on_the_web: Redes Sociais
-var_read: Ler # Text after each post summary on the homepage.
-var_newer: Novo
-var_older: Antigo
-var_next_post: Próximo post
-var_previous_post: Post anterior
-var_less_than_a_minute_read: Menos de 1 minuto para ser lido
-var_min_read: min para ser lido # Text after reading time. Example: 5 min read.
-var_post_by: Post feito por
-var_guest_post_by: Post convidado feito by
-var_your_email: Seu email
-var_your_message: Sua messagem
+var_on_the_web: On the web
+var_read: Read # Text after each post summary on the homepage.
+var_newer: Newer
+var_older: Older
+var_next_post: Next post
+var_previous_post: Previous post
+var_less_than_a_minute_read: Less than a minute read
+var_min_read: min read # Text after reading time. Example: 5 min read.
+var_post_by: Post by
+var_guest_post_by: Guest post by
+var_your_email: Your email
+var_your_message: Your message
 
 
 ##################

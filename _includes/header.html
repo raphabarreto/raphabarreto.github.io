@@ -1,12 +1,14 @@
-<header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for page in site.pages %}
-      {% if  page.title %}
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </nav>
+<header>
+  <a href="{{ site.baseurl }}/" class="website-title">
+    {% if site.logo-image %}
+      <img alt="{{ site.name }}" src="{{ site.baseurl }}{{ site.logo-image }}">
+    {% else %}
+      {{ site.name }}
+    {% endif %}
+
+  </a>
+  {% include navigation.html %}
+  {% if page.home and site.show-subtitle or page.home and site.display-social-icons %}
+    {% include subtitle.html %}
+  {% endif %}
 </header>
