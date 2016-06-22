@@ -5,7 +5,6 @@ layout: page
 
 
   {% for post in site.posts %}
-
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -15,6 +14,6 @@ layout: page
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-
-    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
+    
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {% include dateBrazil.html %}</small></p>
   {% endfor %}
