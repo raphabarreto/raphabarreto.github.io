@@ -1,8 +1,8 @@
 
 # The name of your website.
-name: Rapha Barreto - Blog
+name: Rapha Barreto
 
-description:
+description: 
 
   # Description of your site. This will show up in google.
   meta: Esse é um simples blog criado para aprender e reunir informações do mundo da programação.
@@ -37,8 +37,6 @@ lang: en
 show-subtitle: true
 display-social-icons: true
 
-footer-text: Obrigado pela sua visita! Feito com Jekyll e ♪ ♫.
-
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
 
@@ -62,10 +60,10 @@ text-color: 0, 0, 0 # Original: 0, 0, 0
 background-color: 255, 255, 255 # Original: 255, 255, 255
 
 display-author-post-page: true
-display-author-front-page: true
+display-author-front-page: false
 
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples
-date_format: "%b %-d, %Y"
+# date_format: "%b %-d, %Y"
 
 # Minimal screen-width after which the navigation will change position from
 # vertical to horizontal.
@@ -73,7 +71,7 @@ nav-breaking-point: 520px
 
 # Number of posts on each page.
 gems: [jekyll-paginate]
-paginate: 3
+paginate: 5
 paginate_path: "page:num"
 
 # Display links for the previous and next post on post pages.
@@ -121,8 +119,8 @@ var_newer: Novo
 var_older: Antigo
 var_next_post: Próximo post
 var_previous_post: Post anterior
-var_less_than_a_minute_read: Menos de 1 minuto para ser lido
-var_min_read: min para ser lido # Text after reading time. Example: 5 min read.
+var_less_than_a_minute_read: Menos de 1 min de leitura
+var_min_read: min de leitura # Text after reading time. Example: 5 min read.
 var_post_by: Post feito por
 var_guest_post_by: Post convidado feito by
 var_your_email: Seu email
