@@ -134,7 +134,7 @@ var_your_message: Sua messagem
 # You don't have to change these.
 
 exclude: [vendor]
-highlighter: pygments
+highlighter: rouge
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
