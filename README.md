@@ -1,28 +1,28 @@
-# Holo Alfa Jekyll theme #
+# Holo Alfa Jekyll template #
 
-![Screenshot](http://i.imgur.com/Gi46aag.jpg)
+![Screenshot](http://image.prntscr.com/image/99f24910b9534029afe509f283f07936.png)
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and fun by Stijn.
+Holo Alfa é um template minimalista e responsivo feito em Jekyll com foco na legibilidade do conteúdo. Lembrando que este template foi feito pelo Stijn, eu somente fiz algumas alterações.
 
-See it in action: http://steinvc.github.io/holo-alfa/.
+Você pode vê-lo em ação: https://raphabarreto.com.br/
 
-## Feature highlights ##
+## Principais características ##
 
-* Mobile first design
-* Extensive content styling
-* Responsive video's (using [FitVids.JS](http://fitvidsjs.com/))
-* Support for authors and guest authors
-* Read time on articles
-* Disqus comments
-* Automatic [og metadata](http://ogp.me/)
-* Automatic archive page (without plugins)
+* Responsivo em qualquer aparelho
+* Conteúdo CSS bastante extenso
+* Videos responsivos (utilizando [FitVids.JS](http://fitvidsjs.com/))
+* Suporte para autores e convidados
+* Tempo de leitura dos posts
+* Comentários através do Disqus
+* Automático [og metadata](http://ogp.me/)
+* Arquivamento de páginas automático (sem o auxílio de plugins)
 * Automatic sitemap en RSS feed
-* Contact page (with working email form)
-* A lot of (optional) customization options (all in `_config.yml`)
+* Página de contato (com envio de e-mail funcionando perfeitamente)
+* Muitas opções de customização (todas encontradas no arquivo `_config.yml`)
 
-And much more.
+E muito mais.
 
-## Getting started ##
+## Primeiros passos ##
 
 If you're new to Jekyll, check out http://jekyllrb.com/ and read up on Jekyll. It's worth it.
 
