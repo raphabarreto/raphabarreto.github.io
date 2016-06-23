@@ -2,7 +2,7 @@
 
 ![Screenshot](http://image.prntscr.com/image/99f24910b9534029afe509f283f07936.png)
 
-Holo Alfa é um template minimalista e responsivo feito em Jekyll com foco na legibilidade do conteúdo. Lembrando que este template foi feito pelo Stijn, eu somente fiz algumas alterações.
+Holo Alfa é um template minimalista e responsivo feito em Jekyll com foco na legibilidade do conteúdo. Lembrando que este template foi feito pelo [Stijn](https://github.com/steinvc), eu somente fiz algumas alterações.
 
 Você pode vê-lo em ação: https://raphabarreto.com.br/
 
@@ -24,7 +24,7 @@ E muito mais.
 
 ## Primeiros passos ##
 
-Se você é novo utilizando o Jekyll, veja mais informações através http://jekyllrb.com/ e aprenda mais. Vale muito a pena.
+Se você é novo utilizando o Jekyll, veja mais informações através http://jekyllrb.com/ e aprenda mais. Vale muito a pena. Recomendo também http://jekyll-windows.juthilo.com/ para aqueles que procuram um passo a passo mais simples. 
 
 * [Outro grande recurso para ser aprendido](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 * [Guia do Github mostrando como utilizar Jekyll com Github Pages](https://help.github.com/articles/using-jekyll-with-pages/)
@@ -33,36 +33,39 @@ Se você está rodando nas últimas versões do Jekyll, este template irá funci
 
 ### Instalando ##
 
-As simple as forking the repository, and then clone it so you can edit the files locally.
+Basta dar um fork no repositório, e depois cloná-lo para você poder editar os arquivos localmente da forma que preferir.
 
-### Configuration ###
+### Configuração ###
 
-Edit `_config.yml`!
+Edite o arquivo `_config.yml`!
 
-You can find `_config.yml` in your site's root directory. This configuration file contains some necessary settings and some optional customization settings. **All settings are explained in `_config.yml` itself.**
+Você pode achar o arquivo `_config.yml` no diretório raiz do projeto. Este arquivo de configuração contém algumas configurações necessárias e algumas configurações de personalização opcionais. **Todas as configurações são expicadas no próprio arquivo `_config.yml` .**
 
-There are some customizations that can't be done in `_config.yml`. These include:
+Entretanto, há algumas customizações que não podem ser alteradas no `_config.yml`, que são:
 
-* Editing the About, Contact and Archive page.
-* Adding or removing pages from the navigation. This can be done in `\_includes\navigation.html`.
-* The "thanks" page after a message has been send through the contact page: `thanks.md`
-* The gradient on cover images: `\_includes\gradient.css` (this is explained in `_config.yml`).
 
-Also make sure to replace the placeholder favicons and the `\img\og-image.jpg` with your own.
+* Edição das páginas About, Contact e Archive.
+* Adicionar ou remover páginas de navegação. Isto pode ser feito em `\_includes\navigation.html`.
+* A página "obrigado" depois da mensagem que é enviada através da página de contato é localizada no arquivo: `thanks.md`
+* O efeito gradiente nas imagens de capa para os posts: `\_includes\gradient.css` (isto é explicado no `_config.yml`).
 
-### Start the Jekyll server ###
+Se quiser, você pode substituir os favicons e `\img\og-image.jpg` pelo os da sua preferência
 
-Run this command at the root of your site:
+### Subindo o seu projeto ###
+
+Execute este comando na raíz do seu projeto:
 
 ```
-$ jekyll serve
+$ jekyll s
 ```
 
-> To run Jekyll in a way that matches the GitHub Pages build server, run Jekyll with Bundler. Use the command `bundle exec jekyll serve`.
+Quando tudo estiver OK, seu projeto vai estar disponível em `http://localhost:4000` ou em `http://127.0.0.1:4000/`.
 
-When everything is OK, your site should now be available at `http://localhost:4000`.
+Agradecimentos ao criador deste template [Steinvc](https://github.com/steinvc). 
 
-That's it.
+Este é o [repositório](https://github.com/steinvc/holo-alfa) do projeto original e você pode também pode visitar [este outro repositório](https://github.com/steinvc/jekyllthemes) também feito por ele para dar uma conferida em outros templates por curiosidade.
+
+É isso.
 
 ---
 
