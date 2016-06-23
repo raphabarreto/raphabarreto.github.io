@@ -24,14 +24,14 @@ E muito mais.
 
 ## Primeiros passos ##
 
-If you're new to Jekyll, check out http://jekyllrb.com/ and read up on Jekyll. It's worth it.
+Se você é novo utilizando o Jekyll, veja mais informações através http://jekyllrb.com/ e aprenda mais. Vale muito a pena.
 
-* [Another great resource to learn about Jekyll](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-* [Github's guide to using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
+* [Outro grande recurso para ser aprendido](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+* [Guia do Github mostrando como utilizar Jekyll com Github Pages](https://help.github.com/articles/using-jekyll-with-pages/)
 
-If you run one of the latest versions of Jekyll, this theme will work with no* problems.
+Se você está rodando nas últimas versões do Jekyll, este template irá funcionar sem problemas.
 
-### Installing ##
+### Instalando ##
 
 As simple as forking the repository, and then clone it so you can edit the files locally.
 
