@@ -1,6 +1,6 @@
 # Holo Alfa Jekyll template #
 
-![Screenshot](http://image.prntscr.com/image/99f24910b9534029afe509f283f07936.png)
+![Screenshot](https://i.snag.gy/v5Gelw.jpg)
 
 Holo Alfa é um template minimalista e responsivo feito em Jekyll com foco na legibilidade do conteúdo. Lembrando que este template foi feito pelo [Stijn](https://github.com/steinvc), eu somente fiz algumas alterações.
 
