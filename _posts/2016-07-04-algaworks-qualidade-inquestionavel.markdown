@@ -44,4 +44,6 @@ Quero também deixar um vídeo bastante interessante sobre 1ª Oficina de Spring
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlrvLp66RWE" frameborder="0" allowfullscreen></iframe>
 
+Muito obrigado a família Algaworks ♥
+
 Penso que já falei o bastante para vocês procurarem mais a respeito. É isso galera, bons estudos! :D
