@@ -41,10 +41,10 @@ display-social-icons: true
 logo-image: # /img/logo.png
 
 # Toolbar color for Chrome on Android.
-theme-color-attr: "#00f0ff"
+theme-color-attr: "fcb321"
 
 # Color of Microsoft live Tile.
-ms-tile-color: "#00f0ff"
+ms-tile-color: "#fcb321"
 
 # Color used throughout the theme. Format: R, G, B.
 theme-color: 0, 240, 255 # Original: 0, 240, 255
