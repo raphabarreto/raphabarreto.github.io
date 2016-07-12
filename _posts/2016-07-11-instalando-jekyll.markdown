@@ -55,4 +55,6 @@ jekyll s
 # => Navegue através do endereço http://localhost:4000
 {% endhighlight %}
 
+Quem quiser dar uma olhada mais a fundo, pode acessar o site do [Jekyll](https://jekyllrb.com/) para tirar suas dúvidas.
+
 E pronto, o Jekyll já está funcionando e o projeto já está localmente no ar :)

@@ -83,7 +83,7 @@ li * {
   line-height: 1em; /* Bold font line-height fix */
 }
 img {
-  max-width: 100%;
+  width: 100%;
   display: block;
   margin: 0 auto;
 }
