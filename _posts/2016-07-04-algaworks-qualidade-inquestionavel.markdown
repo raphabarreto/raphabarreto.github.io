@@ -8,7 +8,7 @@ Olá pessoal, como estão vocês? Como sempre por aqui na correria. Mas é como 
 <!--more-->
 >O estudo é que nem uma bicicleta. Parou, caiu.
 
-Nesse post eu quero falar a respeito de uma empresa chamada Algaworks. Ali é realizado treinamentos e principalmente cursos a distância. Eu conheço eles desde 2013, e sempre tive a curisidade de fazer um curso a distância. Por mais que hoje em dia várias coisas são feitas assim, eu acredito que você precisa estar muito mais focado e concentrado do que estar em algo presencial sentado sentado numa carteira em frente à uma lousa, por exemplo.
+Nesse post eu quero falar a respeito de uma empresa chamada Algaworks. Ali é realizado treinamentos e principalmente cursos a distância. Eu conheço eles desde 2013, e sempre tive a curisidade de fazer um curso a distância. Por mais que hoje em dia várias coisas são feitas assim, eu acredito que você precisa estar muito mais focado e concentrado do que estar em algo presencial sentado do numa carteira em frente à uma lousa, por exemplo.
 
 Então, foi no ano passado que decidi comprar um dos cursos e simplesmente fiquei surpreso com a didática. A equipe inteira é excelente. Thiago e Normandes são mestres naquilo que fazem, sem contar o respeito e a atenção. E ainda tem 2 novos instrutores: o Emílio que já trouxe um conteúdo que gosto bastante que é sobre [Web Services Restful](http://blog.algaworks.com/4-conceitos-sobre-rest-que-qualquer-desenvolvedor-precisa-conhecer/) e tem também o recém-chegado Rodrigo, abordando assuntos front-end como o [AngularJS](http://blog.algaworks.com/comecando-com-angularjs/)
 
