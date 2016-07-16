@@ -31,5 +31,4 @@ E sua simplicidade vem junto com o toque minimalista. É só você dar uma olhad
 
 E aí, acha que o Jekyll atende as suas expectativas? Quer ver como a mágica funciona? Você pode conferir como fazer a [instalação](https://raphabarreto.com.br/2016/07/11/instalando-jekyll/) ou até mesmo visitar o [site](https://jekyllrb.com/) e saber um pouco mais
 
-
-
+Então é isso pessoal. Dúvidas, sugestões ou críticas são bem-vindas. Muito obrigado ;)
