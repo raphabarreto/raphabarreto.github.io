@@ -1,6 +1,6 @@
 ---
 title: Comandos úteis no git
-cover-image: newyear.png
+cover-image: git.png
 ---
 
 Olá pessoal, estou aqui para trazer uma lista de comandos a medida que está trabalhando com git.
