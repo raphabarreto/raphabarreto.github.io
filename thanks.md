@@ -3,4 +3,4 @@ layout: page
 title: Obrigado
 ---
 
-Você viu? Realmente funciona. Obrigado pela sua mensagem!
+Sua mensagem foi enviada com sucesso! Muito obrigado  e responderei com prazer assim que possível :)
