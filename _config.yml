@@ -70,7 +70,7 @@ display-author-front-page: false
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
