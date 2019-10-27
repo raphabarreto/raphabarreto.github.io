@@ -497,3 +497,9 @@ img[alt="coding"] {
     display: block;
     margin: auto;
 }
+
+img[alt="printing"] { 
+  height: 70%;
+  width: 70%;
+  border-radius: 15px;
+}
