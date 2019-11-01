@@ -7,6 +7,7 @@ cover-image: autumn.png
 Eu já tinha feito um post de como fazer essa instalação mas já estava beeeem desatualizada. Então
 estava na hora de refazer tudo e hoje em dia é bem mais descomplicado do que antigamente. Bom, vamos
 lá para o passo a passo:
+{: style="text-align: justify"}
 
 <!--more-->
 
@@ -30,10 +31,12 @@ Após isso, uma nova janela irá abrir para a instalação do MSYS2:
 <img src="https://i.imgur.com/2A8xnDY.png" alt="printing" >
 
 O [MSYS2](https://www.msys2.org/) é uma plataforma desenvolvida para o Windows que atualmente substitui o antigo DevKit que foi construído em cima do MSYS1 que hoje em dia não está sendo mais mantido.
+{: style="text-align: justify"}
 
 Instale as 3 opções, uma a uma de cada vez.
 
 Logo na opção 1º, siga o famoso clássico next, next, next:
+
 
 <img src="https://www.msys2.org/1_msys32-start.png" alt="printing" >
 
@@ -56,3 +59,4 @@ Verifique se está tudo em ordem instalado, como abaixo:
 <img src="https://i.imgur.com/9P9aUdL.png" alt="printing" >
 
 E é isso, é um tutorial extenso que deve ser seguido com calma. Qualquer dúvida, deixa aqui embaixo nos comentários que eu vou te ajudar com todo prazer! ;)
+{: style="text-align: justify"}
